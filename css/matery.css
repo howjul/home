@@ -240,12 +240,20 @@ mark {
     margin-bottom: 0;
 }
 
-.bg-color {
+/* .bg-color {
     background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+} */
+
+.bg-color {
+    background-image: linear-gradient(to right, #000000 0%, #000000 100%);
 }
 
-.text-color {
+/* .text-color {
     color: #0f9d58 !important;
+} */
+
+.text-color {
+    color: #000000 !important;
 }
 
 .white-color {
@@ -257,9 +265,10 @@ mark {
     position: fixed;
     bottom: 0;
     z-index: 300;
-    background: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background: linear-gradient(to right, #000000 0%, #000000 100%);
     opacity: 0.8;
 }
+/* background: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);*/
 
 .sidenav-overlay {
     z-index: 500;
@@ -594,8 +603,10 @@ header .go-back i {
 }
 
 @-webkit-keyframes rainbow {
-
-    0%,
+    0%, 50%, 100%{
+        background: rgba(255, 255, 255, 0);
+    }
+    /* 0%,
     100% {
         background: rgba(156, 39, 176, 0.75);
         background: linear-gradient(45deg, rgba(156, 39, 176, 0.75) 0%, rgba(156, 39, 176, 0.65) 100%);
@@ -636,12 +647,14 @@ header .go-back i {
         background: linear-gradient(45deg, rgba(233, 30, 99, 0.75) 0%, rgba(233, 30, 99, 0.65) 100%);
         background: -moz-linear-gradient(135deg, rgba(233, 30, 99, 0.75) 0%, rgba(233, 30, 99, 0.65) 100%);
         background: -webkit-linear-gradient(135deg, rgba(2233, 30, 99, 0.75) 0%, rgba(233, 30, 99, 0.65) 100%);
-    }
+    } */
 }
 
 @keyframes rainbow {
-
-    0%,
+    0%, 50%, 100%{
+        background: rgba(255, 255, 255, 0);
+    }
+    /* 0%,
     100% {
         background: rgba(156, 39, 176, 0.75);
         background: linear-gradient(45deg, rgba(156, 39, 176, 0.75) 0%, rgba(156, 39, 176, 0.65) 100%);
@@ -682,7 +695,7 @@ header .go-back i {
         background: linear-gradient(45deg, rgba(233, 30, 99, 0.75) 0%, rgba(233, 30, 99, 0.65) 100%);
         background: -moz-linear-gradient(135deg, rgba(233, 30, 99, 0.75) 0%, rgba(233, 30, 99, 0.65) 100%);
         background: -webkit-linear-gradient(135deg, rgba(2233, 30, 99, 0.75) 0%, rgba(233, 30, 99, 0.65) 100%);
-    }
+    } */
 }
 
 .index-card {
