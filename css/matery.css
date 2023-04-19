@@ -241,12 +241,18 @@ mark {
 }
 
 /* .bg-color {
-    background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background-image: linear-gradient(to right, #4286F4 0%, #373b44 100%);
+    opacity: 0.8  /* 透明效果 *
 } */
 
-.bg-color {
+ .bg-color {
+    background-image: linear-gradient(to right, #BC95C6 0%, #7dc4cc 100%);
+    opacity: 0.9  /* 透明效果 */
+} 
+
+/* .bg-color {
     background-image: linear-gradient(to right, #000000 0%, #000000 100%);
-}
+} */
 
 /* .text-color {
     color: #0f9d58 !important;
