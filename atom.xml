@@ -3,18 +3,43 @@
   <title>HowJul的个人博客</title>
   
   <subtitle>HowJul.</subtitle>
-  <link href="http://howjul.github.io/home/atom.xml" rel="self"/>
+  <link href="http://howjul.github.io/atom.xml" rel="self"/>
   
-  <link href="http://howjul.github.io/home/"/>
-  <updated>2023-04-18T05:59:06.768Z</updated>
-  <id>http://howjul.github.io/home/</id>
+  <link href="http://howjul.github.io/"/>
+  <updated>2023-04-19T15:44:10.196Z</updated>
+  <id>http://howjul.github.io/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>First Day</title>
+    <link href="http://howjul.github.io/2023/04/19/first-day/"/>
+    <id>http://howjul.github.io/2023/04/19/first-day/</id>
+    <published>2023-04-19T12:32:01.000Z</published>
+    <updated>2023-04-19T15:44:10.196Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;admonition</summary>
+        
+      
+    
+    
+    
+    <category term="开始" scheme="http://howjul.github.io/categories/%E5%BC%80%E5%A7%8B/"/>
+    
+    
+    <category term="个人" scheme="http://howjul.github.io/tags/%E4%B8%AA%E4%BA%BA/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://howjul.github.io/home/2023/04/18/hello-world/"/>
-    <id>http://howjul.github.io/home/2023/04/18/hello-world/</id>
+    <link href="http://howjul.github.io/2023/04/18/hello-world/"/>
+    <id>http://howjul.github.io/2023/04/18/hello-world/</id>
     <published>2023-04-18T05:59:06.768Z</published>
     <updated>2023-04-18T05:59:06.768Z</updated>
     
