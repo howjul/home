@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>凰亦</title>
+  
+  <subtitle>HowJul.</subtitle>
+  <link href="http://howjul.github.io/home/atom.xml" rel="self"/>
+  
+  <link href="http://howjul.github.io/home/"/>
+  <updated>2023-04-18T05:59:06.768Z</updated>
+  <id>http://howjul.github.io/home/</id>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://howjul.github.io/home/2023/04/18/hello-world/"/>
+    <id>http://howjul.github.io/home/2023/04/18/hello-world/</id>
+    <published>2023-04-18T05:59:06.768Z</published>
+    <updated>2023-04-18T05:59:06.768Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
