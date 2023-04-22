@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>网站搭建日志一:评论系统</title>
+      <title>网站搭建日志(一):评论系统</title>
       <link href="/2023/04/22/wang-zhan-da-jian-ri-zhi-yi-ping-lun-xi-tong/"/>
       <url>/2023/04/22/wang-zhan-da-jian-ri-zhi-yi-ping-lun-xi-tong/</url>
       
-        <content type="html"><![CDATA[<ul><li>主要参考<a href="https://fenghen0918.github.io/2020/06/19/hexo/matery-zhu-ti-valine-ping-lun-xi-tong/">这里</a>和<a href="https://small-rose.github.io/posts/40099453.html">这里</a></li></ul><h3 id="具体步骤"><a href="#具体步骤" class="headerlink" title="具体步骤"></a>具体步骤</h3><ol><li>注册<a href="https://www.leancloud.cn/">leancloud</a>，创建应用，因为域名没有备案，所以我用的是国际版的节点；</li><li>找到appID和appKey填入即可；</li></ol>]]></content>
+        <content type="html"><![CDATA[<ul><li>主要参考<a href="https://fenghen0918.github.io/2020/06/19/hexo/matery-zhu-ti-valine-ping-lun-xi-tong/">这里</a>和<a href="https://small-rose.github.io/posts/40099453.html">这里</a></li></ul><h3 id="具体步骤"><a href="#具体步骤" class="headerlink" title="具体步骤"></a>具体步骤</h3><ol><li>注册<a href="https://www.leancloud.cn/">leancloud</a>，创建应用，因为域名没有备案，所以我用的是国际版的节点；</li><li>找到appID和appKey填入即可；</li><li>额，测试了一下发现失败了，还是改用了gitalk；</li></ol>]]></content>
       
       
       <categories>
