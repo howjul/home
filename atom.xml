@@ -6,10 +6,36 @@
   <link href="http://howjul.github.io/atom.xml" rel="self"/>
   
   <link href="http://howjul.github.io/"/>
-  <updated>2023-04-20T07:21:05.951Z</updated>
+  <updated>2023-04-22T06:23:22.953Z</updated>
   <id>http://howjul.github.io/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>网站搭建日志一:评论系统</title>
+    <link href="http://howjul.github.io/2023/04/22/wang-zhan-da-jian-ri-zhi-yi-ping-lun-xi-tong/"/>
+    <id>http://howjul.github.io/2023/04/22/wang-zhan-da-jian-ri-zhi-yi-ping-lun-xi-tong/</id>
+    <published>2023-04-22T05:48:09.000Z</published>
+    <updated>2023-04-22T06:23:22.953Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;主要参考&lt;a href=&quot;https://fenghen0918.github.io/2020/06/19/hexo/matery-zhu-ti-valine-ping-lun-xi-tong/&quot;&gt;这里&lt;/a&gt;和&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="网站搭建" scheme="http://howjul.github.io/categories/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
+    
+    
+    <category term="网站搭建" scheme="http://howjul.github.io/tags/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>First Day</title>
