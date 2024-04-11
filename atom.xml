@@ -3,18 +3,18 @@
   <title>HowJul</title>
   
   <subtitle>HowJul.</subtitle>
-  <link href="http://howjul.github.io/home_matery/atom.xml" rel="self"/>
+  <link href="https://matery.howjul.com/atom.xml" rel="self"/>
   
-  <link href="http://howjul.github.io/home_matery/"/>
+  <link href="https://matery.howjul.com/"/>
   <updated>2024-04-11T10:48:58.868Z</updated>
-  <id>http://howjul.github.io/home_matery/</id>
+  <id>https://matery.howjul.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>Best Wishes</title>
-    <link href="http://howjul.github.io/home_matery/2024/04/11/last/"/>
-    <id>http://howjul.github.io/home_matery/2024/04/11/last/</id>
+    <link href="https://matery.howjul.com/2024/04/11/last/"/>
+    <id>https://matery.howjul.com/2024/04/11/last/</id>
     <published>2024-04-11T10:32:03.000Z</published>
     <updated>2024-04-11T10:48:58.868Z</updated>
     
@@ -29,17 +29,17 @@
     
     
     
-    <category term="开始" scheme="http://howjul.github.io/home_matery/categories/%E5%BC%80%E5%A7%8B/"/>
+    <category term="开始" scheme="https://matery.howjul.com/categories/%E5%BC%80%E5%A7%8B/"/>
     
     
-    <category term="个人" scheme="http://howjul.github.io/home_matery/tags/%E4%B8%AA%E4%BA%BA/"/>
+    <category term="个人" scheme="https://matery.howjul.com/tags/%E4%B8%AA%E4%BA%BA/"/>
     
   </entry>
   
   <entry>
     <title>First Day</title>
-    <link href="http://howjul.github.io/home_matery/2023/04/19/first-day/"/>
-    <id>http://howjul.github.io/home_matery/2023/04/19/first-day/</id>
+    <link href="https://matery.howjul.com/2023/04/19/first-day/"/>
+    <id>https://matery.howjul.com/2023/04/19/first-day/</id>
     <published>2023-04-19T12:32:01.000Z</published>
     <updated>2023-04-20T07:21:05.951Z</updated>
     
@@ -54,10 +54,10 @@
     
     
     
-    <category term="开始" scheme="http://howjul.github.io/home_matery/categories/%E5%BC%80%E5%A7%8B/"/>
+    <category term="开始" scheme="https://matery.howjul.com/categories/%E5%BC%80%E5%A7%8B/"/>
     
     
-    <category term="个人" scheme="http://howjul.github.io/home_matery/tags/%E4%B8%AA%E4%BA%BA/"/>
+    <category term="个人" scheme="https://matery.howjul.com/tags/%E4%B8%AA%E4%BA%BA/"/>
     
   </entry>
   
